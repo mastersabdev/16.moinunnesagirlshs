@@ -18,8 +18,8 @@ import {
 import { hasWelcomeSpeechData } from "@/utils/welcome-speech.util";
 
 export const metadata = {
-  title: "Darul Hikma Jameeya Islamia Alim Madrasah",
-  description: "Darul Hikma Jameeya Islamia Alim Madrasah",
+  title: "Moinunnesa Girls High School",
+  description: "Moinunnesa Girls High School",
 };
 
 const HomePage = async () => {
